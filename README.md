@@ -42,8 +42,6 @@
 
 We (the workers of Project Poyo) decided to open-source this game after Roblox banned our game for more than the 2nd time! You can now as of today download the source code, open it in Studio, and have fun contributing or modifying the game!
 
-note: This repository isn't yet 100% complete, stuff might not work as expected.
-
 ## Built With
 
 This game has been made with Roblox Studio, and Lua (for scripts).
